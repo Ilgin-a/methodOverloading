@@ -1,0 +1,5 @@
+/Users/ilginarpaci1/Documents/sites/c#/methodOverloading/obj/Debug/net6.0/methodOverloading.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/methodOverloading/obj/Debug/net6.0/methodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/methodOverloading/obj/Debug/net6.0/methodOverloading.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/methodOverloading/obj/Debug/net6.0/methodOverloading.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/methodOverloading/obj/Debug/net6.0/methodOverloading.csproj.CoreCompileInputs.cache
